@@ -1,13 +1,10 @@
 
-<div align="center">
+<h1 align="center">Gabriel Esteves</h1>
+<h3 align="center">AI Systems Engineer | Python • ML • LLMs • Backend</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Gabriel%20Esteves&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Python+%7C+Machine+Learning+%7C+LLMs;Backend+Architecture+%7C+Cloud+Native;RAG+Pipelines+%7C+Model+Serving;Production-Grade+AI+Engineering"/>
-
-<img src="https://komarev.com/ghpvc/?username=gab-es21&color=0e75b6&style=flat-square"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gab-es21&style=flat-square&color=blueviolet"/>
+</p>
 
 ---
 
@@ -25,7 +22,7 @@ specialization:
   - Cloud-native APIs
 ```
 
-Currently building production AI systems that integrate machine learning models into scalable backend architectures.
+Currently building production AI systems integrating ML models into scalable backend architectures.
 
 Based in Portugal 🇵🇹  
 Open to Remote & EU Relocation
@@ -98,6 +95,14 @@ Applied ML for debt prediction & early anomaly detection.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gab-es21&theme=github-dark&hide_border=true"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gab-es21/gab-es21/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
