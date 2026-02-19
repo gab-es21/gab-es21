@@ -92,9 +92,9 @@ Predictive modeling for early identification of financially at-risk clients.
 
 ## 📌 Professional Experience
 
-Previously worked at **Capgemini Engineering**, contributing to enterprise-grade software systems and client-facing technical delivery.
+Currently building AI-driven backend systems at **Runtime Revolution**, focusing on machine learning integration, LLM pipelines, and production API architecture.
 
-Currently building AI-driven backend systems at Runtime Revolution, focusing on machine learning integration, LLM pipelines, and production API architecture.
+Previously worked at **Capgemini Engineering**, contributing to enterprise-grade software systems and client-facing technical delivery.
 
 ---
 
