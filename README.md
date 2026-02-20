@@ -44,6 +44,8 @@ Architecture:
 - Firebase real-time data sync
 - Context grounding with citation logic
 
+Project: https://botpresidencial.blog
+
 ---
 
 ### 🐢 Marine Wildlife Object Detection
@@ -93,10 +95,9 @@ Applied ML for debt prediction & early anomaly detection.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gab-es21&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab-es21&layout=compact&theme=github_dark&hide_border=true"/>
+<!--<img height="160" src="https://github-readme-stats.vercel.app/api?username=gab-es21&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab-es21&layout=compact&theme=github_dark&hide_border=true"/>-->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gab-es21&theme=github-dark&hide_border=true"/>
-
 </div>
 
 ---
@@ -128,4 +129,3 @@ Applied ML for debt prediction & early anomaly detection.
 ## 🔗 Connect
 
 LinkedIn: https://www.linkedin.com/in/gabriel-est/  
-AI Project: https://botpresidencial.blog
