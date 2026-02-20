@@ -112,7 +112,6 @@ Applied ML for debt prediction & early anomaly detection.
   </picture>
 </div>
 
-<hr>
 
 ---
 
