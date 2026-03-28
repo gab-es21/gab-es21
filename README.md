@@ -73,8 +73,7 @@ Applied ML for debt prediction & early anomaly detection.
 ### 💳 Personal Finance Comparison — Portugal
 A tool to compare Portuguese bank cards, salary accounts and savings products — with an AI-powered analysis layer and a compound interest simulator.
 
-
-🔗 [personal-finance-pt](https://github.com/gab-es21/personal-finance-pt) · [Simulator →](https://gab-es21.github.io/personal-finance-pt/)
+🔗 [personal-finance-pt](https://github.com/gab-es21/personal-finance-pt) · [Simulator →](https://gab-es21.github.io/personal-finance-pt/simulator.html)
 
 ---
 
