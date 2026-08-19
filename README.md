@@ -5,6 +5,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Python+%7C+Machine+Learning+%7C+LLMs;Backend+Architecture+%7C+Cloud+Native;RAG+Pipelines+%7C+Model+Serving;Production-Grade+AI+Engineering"/>
 
+**[→ Full portfolio: gab-es21.github.io](https://gab-es21.github.io)**
+
 </div>
 
 ---
