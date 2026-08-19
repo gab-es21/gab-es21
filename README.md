@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![My Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-gab--es21.github.io-00F7FF?style=for-the-badge&logoColor=white)](https://gab-es21.github.io)
+[![Check My Portfolio](https://img.shields.io/badge/Portfolio-gab--es21.github.io-00F7FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0xMiAyYTE0LjUgMTQuNSAwIDAgMCAwIDIwYTE0LjUgMTQuNSAwIDAgMCAwLTIwTTIgMTJoMjAiLz48L2c%2BPC9zdmc%2B)](https://gab-es21.github.io)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Gabriel%20Esteves&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
@@ -79,7 +79,7 @@ Technical highlights:
 - Compound interest simulator
 - Static site deployed via GitHub Pages
 
-🔗 [personal-finance-pt](https://github.com/gab-es21/personal-finance-pt) · [Simulator →](https://gab-es21.github.io/personal-finance-pt/simulator.html)
+<img src="https://api.iconify.design/lucide:link.svg?color=%238b949c" width="16"/> [personal-finance-pt](https://github.com/gab-es21/personal-finance-pt) · [Simulator →](https://gab-es21.github.io/personal-finance-pt/simulator.html)
 
 ---
 
@@ -92,7 +92,7 @@ Technical highlights:
 - ArUco-based camera-to-robot calibration
 - ROS Melodic, Python
 
-🔗 [ur3-robotic-arm-pick-place](https://github.com/gab-es21/ur3-robotic-arm-pick-place) · [Docs + demo video →](https://gab-es21.github.io/ur3-robotic-arm-pick-place/)
+<img src="https://api.iconify.design/lucide:link.svg?color=%238b949c" width="16"/> [ur3-robotic-arm-pick-place](https://github.com/gab-es21/ur3-robotic-arm-pick-place) · [Docs + demo video →](https://gab-es21.github.io/ur3-robotic-arm-pick-place/)
 
 ---
 
@@ -105,7 +105,7 @@ Technical highlights:
 - Flet-based desktop UI
 - 59-test pytest suite
 
-🔗 [messenger-ai](https://github.com/gab-es21/messenger-ai)
+<img src="https://api.iconify.design/lucide:link.svg?color=%238b949c" width="16"/> [messenger-ai](https://github.com/gab-es21/messenger-ai)
 
 ---
 
