@@ -81,6 +81,44 @@ Technical highlights:
 
 ---
 
+### 🦾 UR3 Robotic Arm — Pick & Place
+ROS pick-and-place system for a Universal Robots UR3: a fixed-pose baseline plus a camera-guided depth point-cloud pipeline, both running identically in simulation or on the real arm.
+
+Technical highlights:
+- MoveIt motion planning, Gazebo/RealSense parity between sim and hardware
+- RANSAC plane removal + point-cloud clustering for object detection
+- ArUco-based camera-to-robot calibration
+- ROS Melodic, Python
+
+🔗 [ur3-robotic-arm-pick-place](https://github.com/gab-es21/ur3-robotic-arm-pick-place) · [Docs + demo video →](https://gab-es21.github.io/ur3-robotic-arm-pick-place/)
+
+---
+
+### 💬 Round Table — Multi-Agent AI Chat
+Messenger-style app where up to 5 AI agents with distinct personalities debate your ideas — each one thinks, speaks, and remembers.
+
+Technical highlights:
+- Async streaming from local (Ollama) and cloud (Claude) backends
+- Per-agent persona, memory, and temperature settings
+- Flet-based desktop UI
+- 59-test pytest suite
+
+🔗 [messenger-ai](https://github.com/gab-es21/messenger-ai)
+
+---
+
+### 🎤 Interview Assistant *(private repo)*
+Real-time desktop app that listens to interview audio and streams AI-generated answers live.
+
+Technical highlights:
+- Dual-channel capture: microphone + WASAPI speaker loopback
+- Real-time transcription via faster-whisper
+- Silence-based question detection with auto-answer pipeline
+- Pluggable LLM backends: Ollama (local), Claude, OpenAI
+- Desktop UI (pywebview) with streaming answer feed
+
+---
+
 ## ⚙️ Core Technologies
 
 ### Languages
@@ -104,6 +142,13 @@ Technical highlights:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+### LLM & Agents
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Robotics
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 ---
 
