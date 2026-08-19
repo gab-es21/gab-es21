@@ -11,7 +11,7 @@
 
 ---
 
-## ▸ System Profile
+## <img src="https://api.iconify.design/lucide:brain.svg?color=%238b949c" width="20"/> System Profile
 
 ```yaml
 experience: 6 years
@@ -32,9 +32,9 @@ Open to Remote & EU Relocation
 
 ---
 
-## ▸ Highlighted Systems
+## <img src="https://api.iconify.design/lucide:layout-grid.svg?color=%238b949c" width="20"/> Highlighted Systems
 
-### ▸ AI Chatbot & Poll Intelligence Platform
+### <img src="https://api.iconify.design/lucide:vote.svg?color=%238b949c" width="18"/> AI Chatbot & Poll Intelligence Platform
 LLM-driven conversational system with contextual retrieval.
 
 Architecture:
@@ -48,7 +48,7 @@ Project: https://botpresidencial.blog
 
 ---
 
-### ▸ Marine Wildlife Object Detection
+### <img src="https://api.iconify.design/lucide:turtle.svg?color=%238b949c" width="18"/> Marine Wildlife Object Detection
 Computer Vision pipeline for sea turtle identification.
 
 Technical highlights:
@@ -60,7 +60,7 @@ Technical highlights:
 
 ---
 
-### ▸ Financial Risk Forecasting Engine
+### <img src="https://api.iconify.design/lucide:trending-up.svg?color=%238b949c" width="18"/> Financial Risk Forecasting Engine
 Applied ML for debt prediction & early anomaly detection.
 
 - Prophet forecasting models
@@ -70,7 +70,7 @@ Applied ML for debt prediction & early anomaly detection.
 
 ---
 
-### ▸ Personal Finance Comparison — Portugal
+### <img src="https://api.iconify.design/lucide:credit-card.svg?color=%238b949c" width="18"/> Personal Finance Comparison — Portugal
 Tool to compare Portuguese bank cards, salary accounts and savings products.
 
 Technical highlights:
@@ -83,7 +83,7 @@ Technical highlights:
 
 ---
 
-### ▸ UR3 Robotic Arm — Pick & Place
+### <img src="https://api.iconify.design/lucide:bot.svg?color=%238b949c" width="18"/> UR3 Robotic Arm — Pick & Place
 ROS pick-and-place system for a Universal Robots UR3: a fixed-pose baseline plus a camera-guided depth point-cloud pipeline, both running identically in simulation or on the real arm.
 
 Technical highlights:
@@ -96,7 +96,7 @@ Technical highlights:
 
 ---
 
-### ▸ Round Table — Multi-Agent AI Chat
+### <img src="https://api.iconify.design/lucide:users.svg?color=%238b949c" width="18"/> Round Table — Multi-Agent AI Chat
 Messenger-style app where up to 5 AI agents with distinct personalities debate your ideas — each one thinks, speaks, and remembers.
 
 Technical highlights:
@@ -109,7 +109,7 @@ Technical highlights:
 
 ---
 
-### ▸ Interview Assistant *(private repo)*
+### <img src="https://api.iconify.design/lucide:mic.svg?color=%238b949c" width="18"/> Interview Assistant *(private repo)*
 Real-time desktop app that listens to interview audio and streams AI-generated answers live.
 
 Technical highlights:
@@ -121,7 +121,7 @@ Technical highlights:
 
 ---
 
-## ▸ Core Technologies
+## <img src="https://api.iconify.design/lucide:settings.svg?color=%238b949c" width="20"/> Core Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -154,7 +154,7 @@ Technical highlights:
 
 ---
 
-## ▸ GitHub Analytics
+## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%238b949c" width="20"/> GitHub Analytics
 
 <div align="center">
 
@@ -163,7 +163,7 @@ Technical highlights:
 
 ---
 
-## ▸ My Contributions
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%238b949c" width="20"/> My Contributions
 
 <div align="center">
   <picture>
@@ -176,7 +176,7 @@ Technical highlights:
 
 ---
 
-## ▸ Current Research Interests
+## <img src="https://api.iconify.design/lucide:target.svg?color=%238b949c" width="20"/> Current Research Interests
 
 - LLM orchestration frameworks
 - Agent-based systems
@@ -186,7 +186,7 @@ Technical highlights:
 
 ---
 
-## ▸ Connect
+## <img src="https://api.iconify.design/lucide:link.svg?color=%238b949c" width="20"/> Connect
 
 LinkedIn: https://www.linkedin.com/in/gabriel-est/  
 
