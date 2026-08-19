@@ -1,11 +1,11 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-gab--es21.github.io-00F7FF?style=for-the-badge&logoColor=white)](https://gab-es21.github.io)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Gabriel%20Esteves&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Python+%7C+Machine+Learning+%7C+LLMs;Backend+Architecture+%7C+Cloud+Native;RAG+Pipelines+%7C+Model+Serving;Production-Grade+AI+Engineering"/>
-
-**[→ Full portfolio: gab-es21.github.io](https://gab-es21.github.io)**
 
 </div>
 
