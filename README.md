@@ -5,8 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Python+%7C+Machine+Learning+%7C+LLMs;Backend+Architecture+%7C+Cloud+Native;RAG+Pipelines+%7C+Model+Serving;Production-Grade+AI+Engineering"/>
 
-<img src="https://komarev.com/ghpvc/?username=gab-es21&color=0e75b6&style=flat-square"/>
-
 </div>
 
 ---
@@ -14,7 +12,7 @@
 ## 🧠 System Profile
 
 ```yaml
-experience: 5+ years
+experience: 6 years
 focus: AI Systems & Backend Engineering
 stack: Python-first
 specialization:
@@ -71,7 +69,13 @@ Applied ML for debt prediction & early anomaly detection.
 ---
 
 ### 💳 Personal Finance Comparison — Portugal
-A tool to compare Portuguese bank cards, salary accounts and savings products — with an AI-powered analysis layer and a compound interest simulator.
+Tool to compare Portuguese bank cards, salary accounts and savings products.
+
+Technical highlights:
+- Comparison engine for cards, salary accounts & savings products
+- AI-powered analysis layer for recommendations
+- Compound interest simulator
+- Static site deployed via GitHub Pages
 
 🔗 [personal-finance-pt](https://github.com/gab-es21/personal-finance-pt) · [Simulator →](https://gab-es21.github.io/personal-finance-pt/simulator.html)
 
@@ -83,6 +87,11 @@ A tool to compare Portuguese bank cards, salary accounts and savings products �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### AI & ML Stack
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -102,8 +111,6 @@ A tool to compare Portuguese bank cards, salary accounts and savings products �
 
 <div align="center">
 
-<!--<img height="160" src="https://github-readme-stats.vercel.app/api?username=gab-es21&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab-es21&layout=compact&theme=github_dark&hide_border=true"/>-->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gab-es21&theme=github-dark&hide_border=true"/>
 </div>
 
@@ -115,7 +122,7 @@ A tool to compare Portuguese bank cards, salary accounts and savings products �
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gab-es21/gab-es21/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gab-es21/gab-es21/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/gab-es21/gab-es21/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -135,3 +142,11 @@ A tool to compare Portuguese bank cards, salary accounts and savings products �
 ## 🔗 Connect
 
 LinkedIn: https://www.linkedin.com/in/gabriel-est/  
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gab-es21&color=0e75b6&style=flat-square"/>
+
+</div>
