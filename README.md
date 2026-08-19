@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-gab--es21.github.io-00F7FF?style=for-the-badge&logoColor=white)](https://gab-es21.github.io)
+[![My Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-gab--es21.github.io-00F7FF?style=for-the-badge&logoColor=white)](https://gab-es21.github.io)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Gabriel%20Esteves&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 System Profile
+## ▸ System Profile
 
 ```yaml
 experience: 6 years
@@ -32,9 +32,9 @@ Open to Remote & EU Relocation
 
 ---
 
-## 🧬 Highlighted Systems
+## ▸ Highlighted Systems
 
-### 🗳 AI Chatbot & Poll Intelligence Platform
+### ▸ AI Chatbot & Poll Intelligence Platform
 LLM-driven conversational system with contextual retrieval.
 
 Architecture:
@@ -48,7 +48,7 @@ Project: https://botpresidencial.blog
 
 ---
 
-### 🐢 Marine Wildlife Object Detection
+### ▸ Marine Wildlife Object Detection
 Computer Vision pipeline for sea turtle identification.
 
 Technical highlights:
@@ -60,7 +60,7 @@ Technical highlights:
 
 ---
 
-### 📈 Financial Risk Forecasting Engine
+### ▸ Financial Risk Forecasting Engine
 Applied ML for debt prediction & early anomaly detection.
 
 - Prophet forecasting models
@@ -70,7 +70,7 @@ Applied ML for debt prediction & early anomaly detection.
 
 ---
 
-### 💳 Personal Finance Comparison — Portugal
+### ▸ Personal Finance Comparison — Portugal
 Tool to compare Portuguese bank cards, salary accounts and savings products.
 
 Technical highlights:
@@ -83,7 +83,7 @@ Technical highlights:
 
 ---
 
-### 🦾 UR3 Robotic Arm — Pick & Place
+### ▸ UR3 Robotic Arm — Pick & Place
 ROS pick-and-place system for a Universal Robots UR3: a fixed-pose baseline plus a camera-guided depth point-cloud pipeline, both running identically in simulation or on the real arm.
 
 Technical highlights:
@@ -96,7 +96,7 @@ Technical highlights:
 
 ---
 
-### 💬 Round Table — Multi-Agent AI Chat
+### ▸ Round Table — Multi-Agent AI Chat
 Messenger-style app where up to 5 AI agents with distinct personalities debate your ideas — each one thinks, speaks, and remembers.
 
 Technical highlights:
@@ -109,7 +109,7 @@ Technical highlights:
 
 ---
 
-### 🎤 Interview Assistant *(private repo)*
+### ▸ Interview Assistant *(private repo)*
 Real-time desktop app that listens to interview audio and streams AI-generated answers live.
 
 Technical highlights:
@@ -121,7 +121,7 @@ Technical highlights:
 
 ---
 
-## ⚙️ Core Technologies
+## ▸ Core Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -154,7 +154,7 @@ Technical highlights:
 
 ---
 
-## 📊 GitHub Analytics
+## ▸ GitHub Analytics
 
 <div align="center">
 
@@ -163,7 +163,7 @@ Technical highlights:
 
 ---
 
-## 🐍 My Contributions
+## ▸ My Contributions
 
 <div align="center">
   <picture>
@@ -176,7 +176,7 @@ Technical highlights:
 
 ---
 
-## 🎯 Current Research Interests
+## ▸ Current Research Interests
 
 - LLM orchestration frameworks
 - Agent-based systems
@@ -186,7 +186,7 @@ Technical highlights:
 
 ---
 
-## 🔗 Connect
+## ▸ Connect
 
 LinkedIn: https://www.linkedin.com/in/gabriel-est/  
 
